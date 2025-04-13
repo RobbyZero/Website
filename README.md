@@ -1,6 +1,6 @@
 # RobbyZero's Website 🎮
 
-[![GitHub Pages](https://img.shields.io/github/deployments/robbyzero/github.com/robbyzero/Website/github-pages?label=Deploy%20Status&logo=github)](https://github.com/robbyzero/robbyzero/Website/deployments/activity_log?environment=github-pages)
+[![GitHub Pages](https://img.shields.io/badge/Hosted%20on-GitHub%20Pages-222?logo=github&logoColor=white&labelColor=121212)](https://robbyzero.github.io/Website)
 
 Welcome to my personal website! This is where I showcase the games I create and mess around with web design using good ol' HTML and CSS.
 
