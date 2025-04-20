@@ -141,3 +141,28 @@ h1 {
   text-align: center;
   color: #f2f2f2;
 }
+
+a {
+  color: #007bff;
+}
+
+#goat-pet.eating img {
+  animation: eat-animation 1s ease-in-out infinite;
+}
+
+@keyframes eat-animation {
+  0% {
+    transform: translateY(0);
+  }
+  50% {
+    transform: translateY(-8px); /* Smaller move for smoother animation */
+  }
+  100% {
+    transform: translateY(0);
+  }
+}
+
+.no-cursor {
+  cursor: none !important;
+}
+
