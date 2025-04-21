@@ -162,7 +162,8 @@ a {
   }
 }
 
-.no-cursor {
+body.goat-active, body.goat-active * {
   cursor: none !important;
 }
+
 
