@@ -162,7 +162,7 @@ a {
   }
 }
 
-body.goat-active, body.goat-active * {
+.no-cursor {
   cursor: none !important;
 }
 
