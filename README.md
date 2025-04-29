@@ -5,7 +5,7 @@ Welcome to my personal website! This is where I showcase the games I create and 
 
 ## 🌐 Live Website
 
-[RobbyZero's Website](https://robbyzero.github.io/Website)  
+[RobbyZero's Website](https://robbyzero.com)  
 
 ## 🛠️ Tech Stack
 
